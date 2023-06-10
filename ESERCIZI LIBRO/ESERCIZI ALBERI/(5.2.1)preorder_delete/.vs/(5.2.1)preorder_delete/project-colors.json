@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b45ae772-0f53-46bb-aefd-522b5d302998": {
+      "ProjectGuid": "b45ae772-0f53-46bb-aefd-522b5d302998",
+      "DisplayName": "(5.2.1)preorder_delete",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

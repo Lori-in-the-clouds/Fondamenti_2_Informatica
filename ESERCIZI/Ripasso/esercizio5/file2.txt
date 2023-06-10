@@ -1,0 +1,3 @@
+in questo file invece contiamo le occorrenze della parola file
+questo file e' parecchio lungo quindi ci sono molte parole
+tra queste il sostantivo file compare ben 4 volte

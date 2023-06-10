@@ -1,0 +1,30 @@
+#include <stdlib.h>
+#include <stdbool.h>
+int TempoTrasporto(int n, const int* t, int p) {
+	int size = 1;
+	int* vcurr = calloc(size+1, sizeof(int));
+	vcurr[0] = p;
+	bool* control = calloc(3, sizeof(int));
+	while (1) {
+		for (int j = 0; j < size; j++) {
+			
+			if (vcurr[j] > 0) {
+				if (vcurr[j] > t[j]) {
+					vcurr[j + 1] += t[j];
+					vcurr[j] -= t[j];
+				}
+				else if (vcurr[j] == t[j]) {
+					vcurr[j] = 0;
+					vcurr[j + 1] += t[j];
+				}
+				else if (vcurr[j] < t[j]) {
+					vcurr[j + 1] += vcurr[j];
+					vcurr[j] = 0;
+				}
+			}
+		}
+		size++;
+		vcurr = realloc(vcurr, (size+1) * sizeof(int));
+		vcurr[size] = 0;
+	}
+}

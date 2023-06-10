@@ -1,0 +1,7 @@
+﻿  cattura.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame8\esercizio2(riprovato)\cattura.c(29,59): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame8\esercizio2(riprovato)\cattura.c(31,17): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame8\esercizio2(riprovato)\cattura.c(34,40): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  main.c
+  Generazione del codice in corso...
+  esercizio2(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame8\esercizio2(riprovato)\x64\Debug\esercizio2(riprovato).exe

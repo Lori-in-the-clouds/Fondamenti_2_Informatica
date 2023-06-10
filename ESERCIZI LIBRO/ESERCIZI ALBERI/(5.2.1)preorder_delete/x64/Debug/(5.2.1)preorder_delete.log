@@ -1,0 +1,7 @@
+﻿  tree.c
+  delete.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.1)preorder_delete\delete.c(10,6): warning C4013: 'free' non definita. Verrà considerata come esterna che restituisce un int.
+  elemtype.c
+  main.c
+  Generazione del codice in corso...
+  (5.2.1)preorder_delete.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.1)preorder_delete\x64\Debug\(5.2.1)preorder_delete.exe

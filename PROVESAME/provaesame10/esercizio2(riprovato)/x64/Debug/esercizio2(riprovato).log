@@ -1,0 +1,5 @@
+﻿  main.c
+  regole.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio2(riprovato)\regole.c(36,18): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio2(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio2(riprovato)\x64\Debug\esercizio2(riprovato).exe

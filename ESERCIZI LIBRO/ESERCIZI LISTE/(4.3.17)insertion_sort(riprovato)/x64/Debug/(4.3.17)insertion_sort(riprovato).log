@@ -1,0 +1,5 @@
+﻿  insertionsort.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.17)insertion_sort(riprovato)\insertionsort.c(19,25): warning C4047: 'funzione': 'ElemType *' differisce da 'Item **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.17)insertion_sort(riprovato)\insertionsort.c(19,15): warning C4024: 'ElemDelete': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.17)insertion_sort(riprovato)\insertionsort.c(33,31): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+  (4.3.17)insertion_sort(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.17)insertion_sort(riprovato)\x64\Debug\(4.3.17)insertion_sort(riprovato).exe

@@ -1,0 +1,8 @@
+﻿  elemtype.c
+  lenght.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.1)lenght\lenght.c(20,24): warning C4090: 'funzione': qualificatori 'const' differenti
+  list.c
+  main.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.1)lenght\lenght.c(16): warning C4715: 'ListLengthRec': non tutti i percorsi di controllo restituiscono un valore
+  (4.3.1)lenght.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.1)lenght\x64\Debug\(4.3.1)lenght.exe

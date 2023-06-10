@@ -1,0 +1,6 @@
+﻿  main.c
+  prodotto_negativi.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\(1)Esercizi ricorsione\eseercizio5\prodotto_negativi.c(24): warning C4715: 'ProdottoNegativi': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\(1)Esercizi ricorsione\eseercizio5\prodotto_negativi.c(17): warning C4715: 'ProdottoNegativiRec': non tutti i percorsi di controllo restituiscono un valore
+  eseercizio5.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\(1)Esercizi ricorsione\eseercizio5\x64\Debug\eseercizio5.exe

@@ -1,0 +1,6 @@
+﻿  robot.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.13)robot_grid\robot.c(46,16): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.13)robot_grid\robot.c(46,29): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.13)robot_grid\robot.c(46,24): warning C4024: 'FindPathsRec': tipi diversi tra il parametro 5 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.13)robot_grid\robot.c(47,13): warning C4047: 'return': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+  (3.2.13)robot_grid.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.13)robot_grid\x64\Debug\(3.2.13)robot_grid.exe

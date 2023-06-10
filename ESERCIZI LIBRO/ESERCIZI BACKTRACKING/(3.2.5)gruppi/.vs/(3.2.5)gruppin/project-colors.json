@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52794d48-9584-4704-a66d-d518783831e9": {
+      "ProjectGuid": "52794d48-9584-4704-a66d-d518783831e9",
+      "DisplayName": "(3.2.5)gruppin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

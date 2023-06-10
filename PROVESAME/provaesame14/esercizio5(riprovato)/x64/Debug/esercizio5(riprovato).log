@@ -1,0 +1,21 @@
+﻿  list.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame14\esercizio5(riprovato)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame14\esercizio5(riprovato)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  mirror.c
+  tree.c
+  Generazione del codice in corso...
+list.obj : error LNK2019: riferimento al simbolo esterno ElemCopy non risolto nella funzione ListInsertHead
+minheap.obj : error LNK2001: simbolo esterno ElemCopy non risolto
+tree.obj : error LNK2001: simbolo esterno ElemCopy non risolto
+list.obj : error LNK2019: riferimento al simbolo esterno ElemDelete non risolto nella funzione ListDelete
+minheap.obj : error LNK2001: simbolo esterno ElemDelete non risolto
+tree.obj : error LNK2001: simbolo esterno ElemDelete non risolto
+list.obj : error LNK2019: riferimento al simbolo esterno ElemWrite non risolto nella funzione ListWrite
+minheap.obj : error LNK2001: simbolo esterno ElemWrite non risolto
+tree.obj : error LNK2001: simbolo esterno ElemWrite non risolto
+minheap.obj : error LNK2019: riferimento al simbolo esterno ElemCompare non risolto nella funzione HeapMinMoveDown
+mirror.obj : error LNK2001: simbolo esterno ElemCompare non risolto
+minheap.obj : error LNK2019: riferimento al simbolo esterno ElemSwap non risolto nella funzione HeapMinMoveDown
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame14\esercizio5(riprovato)\x64\Debug\esercizio5(riprovato).exe : fatal error LNK1120: 6 esterni non risolti

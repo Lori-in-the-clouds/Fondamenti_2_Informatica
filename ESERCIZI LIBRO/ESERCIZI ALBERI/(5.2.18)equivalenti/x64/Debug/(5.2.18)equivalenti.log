@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  equivalenti.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.18)equivalenti\equivalenti.c(26,28): warning C4047: 'funzione': 'bool *' differisce da 'bool **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.18)equivalenti\equivalenti.c(26,24): warning C4024: 'EquivalentiRec': tipi diversi tra il parametro 3 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.18)equivalenti\equivalenti.c(25,1): warning C4047: 'inizializzazione': 'bool *' differisce da 'int' nei livelli di riferimento indiretto
+  main.c
+  tree.c
+  Generazione del codice in corso...
+  (5.2.18)equivalenti.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.18)equivalenti\x64\Debug\(5.2.18)equivalenti.exe

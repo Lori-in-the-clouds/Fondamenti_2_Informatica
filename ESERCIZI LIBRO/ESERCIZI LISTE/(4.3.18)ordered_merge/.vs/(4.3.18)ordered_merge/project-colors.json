@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61b6ff0d-334c-4903-8daf-20a3d7f0652a": {
+      "ProjectGuid": "61b6ff0d-334c-4903-8daf-20a3d7f0652a",
+      "DisplayName": "(4.3.18)ordered_merge",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,4 @@
+﻿  reverse.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame24\esercizio3\reverse.c(17,39): warning C4033: 'Reverse' deve restituire un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame24\esercizio3\reverse.c(43): warning C4715: 'Reverse': non tutti i percorsi di controllo restituiscono un valore
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame24\esercizio3\x64\Debug\esercizio3.exe

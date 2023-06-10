@@ -1,0 +1,4 @@
+﻿  populatingnext.c
+C:\Users\utente\Desktop\ESAME\esercizio4\populatingnext.c(10,28): warning C4047: '=': 'ElemType' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\ESAME\esercizio4\populatingnext.c(16,35): warning C4090: '=': qualificatori 'const' differenti
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\ESAME\esercizio4\x64\Debug\esercizio4.exe

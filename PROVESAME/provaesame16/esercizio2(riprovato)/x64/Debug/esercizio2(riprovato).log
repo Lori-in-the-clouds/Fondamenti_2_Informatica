@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio2(riprovato)\main.c(10,64): warning C4133: 'funzione': tipi non compatibili. Da 'int *' a 'size_t *'
+  pulce.c
+  Generazione del codice in corso...
+  esercizio2(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio2(riprovato)\x64\Debug\esercizio2(riprovato).exe

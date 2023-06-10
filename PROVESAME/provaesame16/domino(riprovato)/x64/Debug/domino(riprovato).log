@@ -1,0 +1,10 @@
+﻿  domino.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\domino.c(18,22): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\domino.c(23,22): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\domino.c(36,24): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\domino.c(45,24): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\domino.c(59,24): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\domino.c(68,24): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+  main.c
+  Generazione del codice in corso...
+  domino(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\domino(riprovato)\x64\Debug\domino(riprovato).exe

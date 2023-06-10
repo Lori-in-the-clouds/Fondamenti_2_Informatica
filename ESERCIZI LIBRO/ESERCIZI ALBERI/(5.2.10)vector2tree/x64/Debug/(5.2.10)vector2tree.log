@@ -1,0 +1,4 @@
+﻿  vector_tree.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.10)vector2tree\vector_tree.c(34,19): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.10)vector2tree\vector_tree.c(38,19): warning C4090: 'funzione': qualificatori 'const' differenti
+  (5.2.10)vector2tree.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.10)vector2tree\x64\Debug\(5.2.10)vector2tree.exe

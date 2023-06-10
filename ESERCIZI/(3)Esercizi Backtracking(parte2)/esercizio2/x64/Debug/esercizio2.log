@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\main.c(8,34): warning C4047: 'funzione': 'const double *' differisce da 'double (*)[5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\main.c(8,25): warning C4024: 'StazioniServizio': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\main.c(8,47): warning C4047: 'funzione': 'const double *' differisce da 'double (*)[5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\main.c(8,35): warning C4024: 'StazioniServizio': tipi diversi tra il parametro 3 formale e quello effettivo
+  stazioniservizio.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\stazioniservizio.c(94,11): warning C4477: 'printf': con la stringa di formato '%ld' è necessario un argomento di tipo 'long', ma il tipo dell'argomento variadic 1 è 'size_t'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\stazioniservizio.c(94,11): message : provare a usare '%zd' nella stringa di formato
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(3)Esercizi Backtracking(parte2)\esercizio2\x64\Debug\esercizio2.exe

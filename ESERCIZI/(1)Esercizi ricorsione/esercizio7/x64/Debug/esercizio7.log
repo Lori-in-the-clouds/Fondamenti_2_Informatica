@@ -1,0 +1,5 @@
+﻿  divisione_negativi.c
+  main.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\(1)Esercizi ricorsione\esercizio7\divisione_negativi.c(29): warning C4715: 'DivisioneNegativiRec': non tutti i percorsi di controllo restituiscono un valore
+  esercizio7.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\(1)Esercizi ricorsione\esercizio7\x64\Debug\esercizio7.exe

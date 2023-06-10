@@ -1,0 +1,47 @@
+#include "tree.h"
+const ElemType* BstTreeMax(const Node* n) {
+	if (TreeIsEmpty(n)) {
+		const ElemType* e = NULL;
+		return e;
+	}
+	const Node* tmp = n;
+	ElemType *max = &n->value;
+	while (1) {
+		if (TreeIsEmpty(tmp->right)) {
+			break;
+		}
+		ElemType* e = TreeGetRootValue(tmp->right);
+		if (*e > *max) {
+			max = e;
+		}
+		tmp = TreeRight(tmp);
+	}
+	return max;
+}
+
+
+const ElemType* TreeMaxRec(const Node* tmp,ElemType *max) {
+	if (ListIsEmpty(tmp)) {
+		return;
+	}
+	TreeMaxRec(tmp)
+}
+
+ const ElemType* TreeMax(const Node* n) {
+	 if (TreeIsEmpty(n)) {
+		 const ElemType* e = NULL;
+		 return e;
+	 }
+	 ElemType ris = 0;
+	 TreeMaxRec(n,&ris)
+
+
+}
+//	     4              4        
+//      / \            / \           
+//     /   \          /   \        
+//    3     7        10    7         
+//   /     / \      /     / \       
+//  1     5   8    1     5   8      
+// / \            / \             
+//1   2         1   2

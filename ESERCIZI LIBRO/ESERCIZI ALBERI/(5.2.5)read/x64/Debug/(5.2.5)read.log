@@ -1,0 +1,5 @@
+﻿  read.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.5)read\read.c(7,27): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.5)read\read.c(12,13): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.5)read\read.c(24): warning C4715: 'TreeRead': non tutti i percorsi di controllo restituiscono un valore
+  (5.2.5)read.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.5)read\x64\Debug\(5.2.5)read.exe

@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  lenght.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Lenght4.3.1\lenght.c(1,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Lenght4.3.1\lenght.c(4,13): warning C4047: 'return': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+  list.c
+  main.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Lenght4.3.1\lenght.c(8): warning C4715: 'ListLenghtRec': non tutti i percorsi di controllo restituiscono un valore
+  Lenght4.3.1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Lenght4.3.1\x64\Debug\Lenght4.3.1.exe

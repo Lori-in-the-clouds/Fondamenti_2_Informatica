@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7643eda-347e-4ea3-b6f1-c8449f237b6e": {
+      "ProjectGuid": "c7643eda-347e-4ea3-b6f1-c8449f237b6e",
+      "DisplayName": "eseercizio5",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

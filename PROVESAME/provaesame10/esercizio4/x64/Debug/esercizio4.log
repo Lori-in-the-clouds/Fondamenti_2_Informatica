@@ -1,0 +1,7 @@
+﻿  elemtype.c
+  list.c
+  main.c
+  vette.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio4\vette.c(6,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio4\x64\Debug\esercizio4.exe

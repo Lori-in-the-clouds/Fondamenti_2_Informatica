@@ -1,0 +1,10 @@
+﻿  elemtype.c
+  level_order.c
+  list.c
+  main.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(ripetuto)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(ripetuto)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...
+  esercizio5(ripetuto).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(ripetuto)\x64\Debug\esercizio5(ripetuto).exe

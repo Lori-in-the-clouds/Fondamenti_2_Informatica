@@ -1,0 +1,16 @@
+#include "remove.h"
+#include <stdlib.h>
+Item* RemoveDuplicates(Item* i, bool ordered) {
+	if (ordered) {
+		for (Item* tmp = i; !ListIsEmpty(tmp); tmp = ListGetTail(tmp)) {
+			while (!ListIsEmpty(tmp->next) && ElemCompare(ListGetHeadValue(tmp), ListGetHeadValue(tmp->next)) == 0) {
+				ElemDelete(&tmp->next->value);
+				Item* curr = tmp->next;
+				tmp->next = ListGetTail(tmp->next); //cancellazione ma sena salto
+				free(curr);
+			}
+		}
+		return i;
+
+	}
+}

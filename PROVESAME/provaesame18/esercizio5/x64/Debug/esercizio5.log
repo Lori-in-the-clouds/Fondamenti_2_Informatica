@@ -1,0 +1,3 @@
+﻿  cocktailsort.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio5\cocktailsort.c(5,20): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio5\x64\Debug\esercizio5.exe

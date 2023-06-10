@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI HEAP\(6.2.4)is_heap\main.c(9,29): warning C4020: 'malloc': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI HEAP\(6.2.4)is_heap\main.c(12,22): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  (6.2.4)is_heap.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI HEAP\(6.2.4)is_heap\x64\Debug\(6.2.4)is_heap.exe

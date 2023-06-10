@@ -1,0 +1,4 @@
+﻿  palindromo.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame12\esercizio1(riprovato)\palindromo.c(11,48): warning C4098: 'rec': la funzione 'void' restituisce un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame12\esercizio1(riprovato)\palindromo.c(15,16): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  esercizio1(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame12\esercizio1(riprovato)\x64\Debug\esercizio1(riprovato).exe

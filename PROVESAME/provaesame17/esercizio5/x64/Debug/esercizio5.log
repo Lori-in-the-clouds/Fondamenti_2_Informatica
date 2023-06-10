@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  main.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame17\esercizio5\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame17\esercizio5\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  pop.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame17\esercizio5\pop.c(12): warning C4716: 'Pop': deve restituire un valore
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame17\esercizio5\x64\Debug\esercizio5.exe

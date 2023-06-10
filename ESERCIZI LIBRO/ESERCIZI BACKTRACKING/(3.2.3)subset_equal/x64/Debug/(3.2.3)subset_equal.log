@@ -1,0 +1,3 @@
+﻿  subset_equal.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.3)subset_equal\subset_equal.c(34,28): warning C4133: 'funzione': tipi non compatibili. Da 'bool *' a 'int *'
+  (3.2.3)subset_equal.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.3)subset_equal\x64\Debug\(3.2.3)subset_equal.exe

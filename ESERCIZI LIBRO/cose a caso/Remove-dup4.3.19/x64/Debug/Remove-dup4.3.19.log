@@ -1,0 +1,6 @@
+﻿  main.c
+  remove.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Remove-dup4.3.19\remove.c(9,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Remove-dup4.3.19\remove.c(23): warning C4715: 'RemoveDuplicates': non tutti i percorsi di controllo restituiscono un valore
+  Remove-dup4.3.19.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Remove-dup4.3.19\x64\Debug\Remove-dup4.3.19.exe

@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  level_order.c
+  list.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(riprovato2)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(riprovato2)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(riprovato2)\tree.c : fatal error C1090: Chiamata API PDB non riuscita. Codice errore '3': C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame11\esercizio5(riprovato2)\x64\Debug\vc143.pdb

@@ -1,0 +1,6 @@
+﻿  main.c
+  robot.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Robot_grid3.2.13\robot.c(69): warning C4716: 'FindPaths': deve restituire un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Robot_grid3.2.13\robot.c(40): warning C4716: 'PrintGrind': deve restituire un valore
+  Robot_grid3.2.13.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Robot_grid3.2.13\x64\Debug\Robot_grid3.2.13.exe

@@ -1,0 +1,6 @@
+﻿  main.c
+  newton.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.5)newton\newton.c(3,108): warning C4029: dichiarato un elenco di parametri formali diverso dalla definizione
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.5)newton\newton.c(22): warning C4715: 'Newton': non tutti i percorsi di controllo restituiscono un valore
+  (2.2.5)newton.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.5)newton\x64\Debug\(2.2.5)newton.exe

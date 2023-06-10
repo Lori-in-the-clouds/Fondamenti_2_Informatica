@@ -1,0 +1,6 @@
+﻿  main.c
+  sommafinoa.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\sommafinoa\sommafinoa.c(6,15): warning C4013: 'sommafinoaRec' non definita. Verrà considerata come esterna che restituisce un int.
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\sommafinoa\sommafinoa.c(7): warning C4715: 'sommafinoa': non tutti i percorsi di controllo restituiscono un valore
+  sommafinoa.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\sommafinoa\x64\Debug\sommafinoa.exe

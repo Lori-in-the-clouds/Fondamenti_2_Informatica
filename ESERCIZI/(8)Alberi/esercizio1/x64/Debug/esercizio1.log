@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  insert.c
+  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio1\main.c(15,22): warning C4047: 'funzione': 'const ElemType *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio1\main.c(15,20): warning C4024: 'BstInsertRec': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio1\main.c(13,1): warning C4047: 'inizializzazione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+  tree.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio1\tree.c : fatal error C1090: Chiamata API PDB non riuscita. Codice errore '3': C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio1\x64\Debug\vc143.pdb

@@ -1,0 +1,6 @@
+﻿  common_tail.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.13)common_tail\common_tail.c(3,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.13)common_tail\common_tail.c(4,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  main.c
+  Generazione del codice in corso...
+  (4.3.13)common_tail.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.13)common_tail\x64\Debug\(4.3.13)common_tail.exe

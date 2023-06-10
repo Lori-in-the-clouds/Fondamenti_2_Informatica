@@ -1,0 +1,8 @@
+﻿  elemtype.c
+  main.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(9)Heap\esercizio3\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(9)Heap\esercizio3\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  move_down.c
+  Generazione del codice in corso...
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(9)Heap\esercizio3\x64\Debug\esercizio3.exe

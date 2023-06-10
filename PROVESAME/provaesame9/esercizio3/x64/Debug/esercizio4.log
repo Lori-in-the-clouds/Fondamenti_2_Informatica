@@ -1,0 +1,7 @@
+﻿  copia.c
+  elemtype.c
+  list.c
+  main.c
+  Generazione del codice in corso...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame9\esercizio4\x64\Debug\esercizio4.exe : fatal error LNK1120: 1 esterni non risolti

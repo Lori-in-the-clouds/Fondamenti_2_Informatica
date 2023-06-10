@@ -1,0 +1,6 @@
+﻿  crea_da_interni.c
+  list.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame15\esercizio3n\list.h(10,10): fatal error C1083: Non è possibile aprire il file inclusione: 'elemtype.h': No such file or directory
+  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame15\esercizio3n\list.h(10,10): fatal error C1083: Non è possibile aprire il file inclusione: 'elemtype.h': No such file or directory
+  Generazione del codice in corso...

@@ -1,0 +1,13 @@
+#include "list.h"
+Item* Reverse(Item* i) {
+	Item* curr = i;
+	Item* prev = ListCreateEmpty();
+	Item* next = ListCreateEmpty();
+	while (!ListIsEmpty(curr)) {
+		next = curr->next; //prende il pezzo per dopo e lo mette poi in curr
+		curr->next = prev; //qui avviene il cambio di puntatori all'indietro 
+		prev = curr;
+		curr = next; // prende il pezzo e lo mette in curr 
+	}
+	return prev;
+}

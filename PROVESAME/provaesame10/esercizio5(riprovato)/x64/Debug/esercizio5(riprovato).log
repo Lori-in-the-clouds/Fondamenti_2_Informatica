@@ -1,0 +1,10 @@
+﻿  elemtype.c
+  list.c
+  mediano.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio5(riprovato)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio5(riprovato)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame10\esercizio5(riprovato)\x64\Debug\esercizio5(riprovato).exe : fatal error LNK1120: 1 esterni non risolti

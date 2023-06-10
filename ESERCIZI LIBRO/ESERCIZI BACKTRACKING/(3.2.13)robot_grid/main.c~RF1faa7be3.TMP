@@ -1,0 +1,8 @@
+#include "robot.h"
+#include <stdlib.h>
+int main(void) {
+	struct Grid p;
+	p.rows = 3;
+	p.cols = 3;
+	PrintGrid(&p);
+}

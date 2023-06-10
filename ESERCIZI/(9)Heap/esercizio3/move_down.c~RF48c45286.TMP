@@ -1,0 +1,31 @@
+﻿#include "minheap.h"
+#include <stdlib.h>
+void HeapMinMoveDownRec(Heap* h, int i) {
+	//controllo se è al posto giusto 
+	if ((ElemCompare(HeapGetNodeValue(h, i), HeapGetNodeValue(h, HeapParent(i))) < 0) && (ElemCompare(HeapGetNodeValue(h, i), HeapGetNodeValue(h, HeapLeft(i))) < 0)) {
+
+	}
+	//esiste solo il figlio sinistro
+	if ((HeapLeft(i) < h->size) && (HeapRight(i) > h->size)) {
+		ElemSwap(HeapGetNodeValue(h, i), HeapGetNodeValue(h, HeapLeft(i)));
+		 HeapMinMoveDownRec(h, HeapLeft(i));
+	}
+	//esiste sono il figlio destro
+	if ((HeapLeft(i) > h->size) && (HeapRight(i) < h->size)) {
+		ElemSwap(HeapGetNodeValue(h, i), HeapGetNodeValue(h, HeapRight(i)));
+		 HeapMinMoveDownRec(h, HeapRight(i));
+	}
+	else {
+		ElemType* a = HeapGetNodeValue(h, HeapLeft(i));
+		ElemType* b = HeapGetNodeValue(h, HeapRight(i));
+		if (ElemCompare(a, b) < 0) {
+			ElemSwap(HeapGetNodeValue(h, i), HeapGetNodeValue(h, HeapLeft(i)));
+			 HeapMinMoveDownRec(h, HeapLeft(i));
+
+		}
+		else {
+			ElemSwap(HeapGetNodeValue(h, i), HeapGetNodeValue(h, HeapRight(i)));
+			 HeapMinMoveDownRec(h, HeapRight(i));
+		}
+	}
+}

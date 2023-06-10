@@ -1,0 +1,3 @@
+﻿  sen_x.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame22\esercizio1\sen_x.c(26,9): warning C4244: 'funzione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame22\esercizio1\x64\Debug\esercizio1.exe

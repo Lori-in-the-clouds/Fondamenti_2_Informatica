@@ -1,0 +1,4 @@
+﻿  next_greater.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame23\esercizio3\next_greater.c(10,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame23\esercizio3\next_greater.c(14,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame23\esercizio3\x64\Debug\esercizio3.exe

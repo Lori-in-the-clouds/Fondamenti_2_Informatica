@@ -1,0 +1,11 @@
+﻿  elemtype.c
+  intersect.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\intersect.c(15,17): error C2065: 'tmp1': identificatore non dichiarato
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\intersect.c(15,17): warning C4047: 'funzione': 'Item *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\intersect.c(15,13): warning C4024: 'ListDelete': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\intersect.c(16,18): error C2065: 'tmp2': identificatore non dichiarato
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\intersect.c(16,18): warning C4133: 'funzione': tipi non compatibili. Da 'int *' a 'Item *'
+  list.c
+  main.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\main.c : fatal error C1090: Chiamata API PDB non riuscita. Codice errore '3': C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(6)Liste\esercizio2\x64\Debug\vc143.pdb

@@ -1,0 +1,6 @@
+﻿  pred_succ.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.15)pred_succ(riprovato)\pred_succ.c(9,14): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.15)pred_succ(riprovato)\pred_succ.c(26,17): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.15)pred_succ(riprovato)\pred_succ.c(53,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.15)pred_succ(riprovato)\pred_succ.c(54,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  (5.2.15)pred_succ(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.15)pred_succ(riprovato)\x64\Debug\(5.2.15)pred_succ(riprovato).exe

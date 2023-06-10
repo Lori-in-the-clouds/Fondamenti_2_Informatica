@@ -1,0 +1,7 @@
+﻿  main.c
+  ombrelloni.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio1\ombrelloni.c(49,37): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio1\ombrelloni.c(49,32): warning C4024: 'OmbrelloniRec': tipi diversi tra il parametro 5 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio1\ombrelloni.c(51,13): warning C4047: 'return': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+  Generazione del codice in corso...
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio1\x64\Debug\esercizio1.exe

@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T5)StazionediServizio\main.c(6,27): warning C4047: 'funzione': 'int *' differisce da 'int (*)[5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T5)StazionediServizio\main.c(6,15): warning C4024: 'stazioniconv': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T5)StazionediServizio\main.c(6,38): warning C4047: 'funzione': 'int *' differisce da 'int (*)[5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T5)StazionediServizio\main.c(6,29): warning C4024: 'stazioniconv': tipi diversi tra il parametro 2 formale e quello effettivo
+  StazioniServizio.c
+  Generazione del codice in corso...
+  (T5)StazionediServizio.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T5)StazionediServizio\x64\Debug\(T5)StazionediServizio.exe

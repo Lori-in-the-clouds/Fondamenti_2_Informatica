@@ -1,0 +1,23 @@
+﻿  elemtype.c
+  main.c
+  read.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(13,20): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(18,20): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(21,15): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(22,34): warning C4133: 'funzione': tipi non compatibili. Da 'ElemType *' a 'const Node *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(22,35): warning C4020: 'TreeGetRootValue': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(22,45): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(26,34): warning C4133: 'funzione': tipi non compatibili. Da 'ElemType *' a 'const Node *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(26,36): warning C4020: 'TreeGetRootValue': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(26,47): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(32,15): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(33,35): warning C4133: 'funzione': tipi non compatibili. Da 'ElemType *' a 'const Node *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(33,37): warning C4020: 'TreeGetRootValue': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(33,48): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(37,35): warning C4133: 'funzione': tipi non compatibili. Da 'ElemType *' a 'const Node *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(37,37): warning C4020: 'TreeGetRootValue': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(37,48): warning C4090: '=': qualificatori 'const' differenti
+  tree.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\read.c(44): warning C4715: 'TreeRead': non tutti i percorsi di controllo restituiscono un valore
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4\x64\Debug\esercizio4.exe

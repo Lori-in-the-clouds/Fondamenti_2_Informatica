@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51b5e362-c1b0-49f0-a717-be14816d1bf4": {
+      "ProjectGuid": "51b5e362-c1b0-49f0-a717-be14816d1bf4",
+      "DisplayName": "(3.2.16)nonograms",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

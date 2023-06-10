@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio2\main.c(10,41): warning C4047: 'funzione': 'size_t *' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio2\main.c(10,32): warning C4024: 'GuidaLaPulce': tipi diversi tra il parametro 7 formale e quello effettivo
+  pulce.c
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio2\x64\Debug\esercizio2.exe

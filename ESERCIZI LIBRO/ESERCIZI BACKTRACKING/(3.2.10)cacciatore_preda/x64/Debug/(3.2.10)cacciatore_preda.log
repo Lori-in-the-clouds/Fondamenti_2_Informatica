@@ -1,0 +1,5 @@
+﻿  cattura.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.10)cacciatore_preda\cattura.c(42,30): warning C4020: 'malloc': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.10)cacciatore_preda\cattura.c(43,30): warning C4020: 'malloc': troppi parametri effettivi
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.10)cacciatore_preda\cattura.c(50): warning C4716: 'CacciatorePreda': deve restituire un valore
+  (3.2.10)cacciatore_preda.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.10)cacciatore_preda\x64\Debug\(3.2.10)cacciatore_preda.exe

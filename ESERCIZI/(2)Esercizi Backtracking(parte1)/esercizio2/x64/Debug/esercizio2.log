@@ -1,0 +1,18 @@
+﻿  babbonatale.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\babbonatale.c(45,11): warning C4098: 'BabboNatale': la funzione 'void' restituisce un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\babbonatale.c(51,38): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\babbonatale.c(51,34): warning C4024: 'BabboNataleRec': tipi diversi tra il parametro 4 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\babbonatale.c(51,73): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\babbonatale.c(51,67): warning C4024: 'BabboNataleRec': tipi diversi tra il parametro 10 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\babbonatale.c(49,1): warning C4047: 'inizializzazione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(7,21): warning C4047: 'funzione': 'const int *' differisce da 'const int (*)[5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(7,14): warning C4024: 'BabboNatale': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(8,22): warning C4047: 'funzione': 'const int *' differisce da 'const int (*)[11]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(8,14): warning C4024: 'BabboNatale': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(9,22): warning C4047: 'funzione': 'const int *' differisce da 'const int (*)[11]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(9,14): warning C4024: 'BabboNatale': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(10,22): warning C4047: 'funzione': 'const int *' differisce da 'const int (*)[11]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\main.c(10,14): warning C4024: 'BabboNatale': tipi diversi tra il parametro 1 formale e quello effettivo
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(2)Esercizi Backtracking(parte1)\esercizio2\x64\Debug\esercizio2.exe

@@ -1,0 +1,4 @@
+﻿  mediano.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.13)mediano\mediano.c(49,15): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.13)mediano\mediano.c(54,15): warning C4090: 'funzione': qualificatori 'const' differenti
+  (5.2.13)mediano.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI ALBERI\(5.2.13)mediano\x64\Debug\(5.2.13)mediano.exe

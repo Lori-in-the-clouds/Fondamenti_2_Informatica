@@ -1,0 +1,7 @@
+﻿  read.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\simulazione esame\esercizio4\read.c(6,27): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\simulazione esame\esercizio4\read.c(9,13): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\simulazione esame\esercizio4\read.c(14,25): warning C4047: 'funzione': 'const ElemType *' differisce da 'ElemType' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\simulazione esame\esercizio4\read.c(14,24): warning C4024: 'TreeCreateRoot': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\simulazione esame\esercizio4\read.c(22): warning C4715: 'TreeRead': non tutti i percorsi di controllo restituiscono un valore
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\simulazione esame\esercizio4\x64\Debug\esercizio4.exe

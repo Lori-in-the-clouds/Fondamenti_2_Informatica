@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(3.2.14)robot_grid_mod", "(3.2.14)robot_grid_mod.vcxproj", "{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Debug|x64.ActiveCfg = Debug|x64
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Debug|x64.Build.0 = Debug|x64
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Debug|x86.Build.0 = Debug|Win32
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Release|x64.ActiveCfg = Release|x64
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Release|x64.Build.0 = Release|x64
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Release|x86.ActiveCfg = Release|Win32
+		{4EC64ED6-95BE-4B0E-B1F3-F4D36A8FBF0F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B926BBD-001F-4BDE-B81F-D7F006FF7E2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿  main.c
+  sciatori.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(5)AlgoritmiGreedy\esercizio3\sciatori.c(38,15): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(5)AlgoritmiGreedy\esercizio3\sciatori.c(41,9): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(5)AlgoritmiGreedy\esercizio3\x64\Debug\esercizio3.exe

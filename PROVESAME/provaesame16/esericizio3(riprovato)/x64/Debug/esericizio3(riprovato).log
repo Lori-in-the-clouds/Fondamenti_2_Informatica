@@ -1,0 +1,13 @@
+﻿  crea_da_interni.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esericizio3(riprovato)\crea_da_interni.c(7,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  elemtype.c
+  list.c
+  main.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esericizio3(riprovato)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esericizio3(riprovato)\minheap.c(54,33): warning C4013: 'ElemCompare' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esericizio3(riprovato)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...
+minheap.obj : error LNK2019: riferimento al simbolo esterno ElemCompare non risolto nella funzione HeapMinMoveDown
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esericizio3(riprovato)\x64\Debug\esericizio3(riprovato).exe : fatal error LNK1120: 1 esterni non risolti

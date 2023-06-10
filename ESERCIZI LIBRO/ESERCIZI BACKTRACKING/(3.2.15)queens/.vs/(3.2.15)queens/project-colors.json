@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ae0bca2-f1bd-412d-b5c1-b549277c240d": {
+      "ProjectGuid": "0ae0bca2-f1bd-412d-b5c1-b549277c240d",
+      "DisplayName": "(3.2.15)queens",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

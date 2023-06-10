@@ -1,0 +1,5 @@
+﻿  ancestor.c
+C:\Users\utente\Desktop\ESAME\esercizio4\ancestor.c(25,14): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\ESAME\esercizio4\ancestor.c(29,13): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\ESAME\esercizio4\ancestor.c(6): warning C4716: 'prova': deve restituire un valore
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\ESAME\esercizio4\x64\Debug\esercizio4.exe

@@ -1,0 +1,7 @@
+﻿  atoi.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.11)atoi\atoi.c(7,23): warning C4244: '+=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.11)atoi\atoi.c(21,42): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.11)atoi\atoi.c(24,47): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.11)atoi\atoi.c(28,31): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.11)atoi\atoi.c(9): warning C4715: 'atoiRec': non tutti i percorsi di controllo restituiscono un valore
+  (2.2.11)atoi.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI RICORSIONE\(2.2.11)atoi\x64\Debug\(2.2.11)atoi.exe

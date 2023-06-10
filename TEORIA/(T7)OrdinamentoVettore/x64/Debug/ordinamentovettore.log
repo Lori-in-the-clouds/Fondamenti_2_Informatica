@@ -1,0 +1,8 @@
+﻿  vector.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T7)OrdinamentoVettore\vector.c(5,29): error C2143: errore di sintassi: ')' mancante prima di '*'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T7)OrdinamentoVettore\vector.c(5,29): error C2143: errore di sintassi: '{' mancante prima di '*'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T7)OrdinamentoVettore\vector.c(5,32): error C2059: errore di sintassi: ')'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T7)OrdinamentoVettore\vector.c(17,11): warning C4013: 'PushBack' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\TEORIA\(T7)OrdinamentoVettore\vector.c(20,11): warning C4013: 'NaiveSort' non definita. Verrà considerata come esterna che restituisce un int.
+  wsap.c
+  Generazione del codice in corso...

@@ -1,0 +1,11 @@
+﻿  cattura.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\cattura.c(31,4): warning C4033: 'CacciatorePredaRec' deve restituire un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\cattura.c(76,78): warning C4047: 'funzione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\cattura.c(76,72): warning C4024: 'CacciatorePredaRec': tipi diversi tra il parametro 10 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\cattura.c(70,1): warning C4047: 'inizializzazione': 'int' differisce da 'void *' nei livelli di riferimento indiretto
+  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\main.c(5,20): warning C4047: 'funzione': 'const char *' differisce da 'char (*)[5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\main.c(5,18): warning C4024: 'CacciatorePreda': tipi diversi tra il parametro 1 formale e quello effettivo
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\cattura.c(65): warning C4716: 'CacciatorePredaRec': deve restituire un valore
+  Cacciatore_preda3.2.10.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Cacciatore_preda3.2.10\x64\Debug\Cacciatore_preda3.2.10.exe

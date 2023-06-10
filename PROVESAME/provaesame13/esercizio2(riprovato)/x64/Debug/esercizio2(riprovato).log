@@ -1,0 +1,7 @@
+﻿  jobs.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame13\esercizio2(riprovato)\jobs.c(34,13): warning C4477: 'printf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'size_t'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame13\esercizio2(riprovato)\jobs.c(34,13): message : provare a usare '%zd' nella stringa di formato
+  main.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame13\esercizio2(riprovato)\jobs.c(22): warning C4715: 'comp': non tutti i percorsi di controllo restituiscono un valore
+  esercizio2(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame13\esercizio2(riprovato)\x64\Debug\esercizio2(riprovato).exe

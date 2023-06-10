@@ -1,0 +1,10 @@
+﻿  elemtype.c
+  levelsum.c
+  list.c
+  main.c
+  minheap.c
+C:\Users\utente\Desktop\ESAME\esercizio4\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\ESAME\esercizio4\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\ESAME\esercizio4\x64\Debug\esercizio4.exe

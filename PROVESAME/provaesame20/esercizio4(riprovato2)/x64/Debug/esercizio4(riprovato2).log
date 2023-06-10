@@ -1,0 +1,12 @@
+﻿  elemtype.c
+  list.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4(riprovato2)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4(riprovato2)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  read.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4(riprovato2)\read.c(9,27): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4(riprovato2)\read.c(12,21): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'ElemType *'
+  tree.c
+  Generazione del codice in corso...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame20\esercizio4(riprovato2)\x64\Debug\esercizio4(riprovato2).exe : fatal error LNK1120: 1 esterni non risolti

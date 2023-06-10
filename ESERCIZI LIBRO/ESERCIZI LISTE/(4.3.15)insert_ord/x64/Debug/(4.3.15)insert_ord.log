@@ -1,0 +1,6 @@
+﻿  insert_ord.c
+  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.15)insert_ord\main.c(17,26): warning C4013: 'InsertOrdRec' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.15)insert_ord\main.c(17,1): warning C4047: 'inizializzazione': 'Item *' differisce da 'int' nei livelli di riferimento indiretto
+  Generazione del codice in corso...
+  (4.3.15)insert_ord.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI LISTE\(4.3.15)insert_ord\x64\Debug\(4.3.15)insert_ord.exe

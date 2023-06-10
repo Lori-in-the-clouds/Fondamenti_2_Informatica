@@ -1,0 +1,8 @@
+﻿  cugini.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio4\cugini.c(24,31): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio4\cugini.c(36,13): warning C4090: 'funzione': qualificatori 'const' differenti
+  elemtype.c
+  main.c
+  tree.c
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio4\x64\Debug\esercizio4.exe

@@ -1,0 +1,9 @@
+﻿  cugini.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio4(riprovato)\cugini.c(39,1): error C2059: errore di sintassi: '}'
+  elemtype.c
+  list.c
+  minheap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio4(riprovato)\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame18\esercizio4(riprovato)\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...

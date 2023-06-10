@@ -1,0 +1,5 @@
+﻿  main.c
+  reverse_string.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame13\esercizio1\reverse_string.c(15,28): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame13\esercizio1\x64\Debug\esercizio1.exe

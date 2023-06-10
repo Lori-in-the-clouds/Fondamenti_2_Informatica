@@ -1,0 +1,5 @@
+﻿  bricksort.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame22\esercizio5\bricksort.c(4,12): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  main.c
+  Generazione del codice in corso...
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame22\esercizio5\x64\Debug\esercizio5.exe

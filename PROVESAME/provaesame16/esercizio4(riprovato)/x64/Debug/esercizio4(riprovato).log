@@ -1,0 +1,5 @@
+﻿  maxbin.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4(riprovato)\maxbin.c(28,19): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4(riprovato)\maxbin.c(42,28): warning C4133: 'funzione': tipi non compatibili. Da 'size_t *' a 'const ElemType *'
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4(riprovato)\maxbin.c(34,15): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  esercizio4(riprovato).vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4(riprovato)\x64\Debug\esercizio4(riprovato).exe

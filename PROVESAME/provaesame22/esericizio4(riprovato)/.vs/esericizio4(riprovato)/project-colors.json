@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6868191c-aa23-4e83-807c-f96ce3f576b6": {
+      "ProjectGuid": "6868191c-aa23-4e83-807c-f96ce3f576b6",
+      "DisplayName": "esericizio4(riprovato)",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

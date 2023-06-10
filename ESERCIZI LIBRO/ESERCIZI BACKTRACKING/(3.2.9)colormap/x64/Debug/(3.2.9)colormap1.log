@@ -1,0 +1,8 @@
+﻿  colormap.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\colormap.c(8,18): warning C4244: 'funzione': conversione da 'const size_t' a 'double'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\colormap.c(8,16): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\colormap.c(31,17): warning C4244: 'funzione': conversione da 'const size_t' a 'double'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\colormap.c(48,37): warning C4244: 'funzione': conversione da 'const size_t' a 'double'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\colormap.c(50,41): warning C4244: 'funzione': conversione da 'const size_t' a 'double'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\colormap.c(50,39): warning C4244: 'funzione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (3.2.9)colormap1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\ESERCIZI BACKTRACKING\(3.2.9)colormap1\x64\Debug\(3.2.9)colormap1.exe

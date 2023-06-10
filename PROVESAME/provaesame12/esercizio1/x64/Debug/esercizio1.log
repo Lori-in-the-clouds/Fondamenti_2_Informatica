@@ -1,0 +1,5 @@
+﻿  main.c
+  palindromo.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame12\esercizio1\palindromo.c(11): warning C4715: 'IsPalindromoRec': non tutti i percorsi di controllo restituiscono un valore
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame12\esercizio1\x64\Debug\esercizio1.exe

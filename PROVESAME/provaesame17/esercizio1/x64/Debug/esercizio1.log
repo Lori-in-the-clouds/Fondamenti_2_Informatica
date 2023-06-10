@@ -1,0 +1,3 @@
+﻿  radicenumerica.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame17\esercizio1\radicenumerica.c(9,9): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame17\esercizio1\x64\Debug\esercizio1.exe

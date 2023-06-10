@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8234c375-b7cd-45ea-a91c-1ab32c964041": {
+      "ProjectGuid": "8234c375-b7cd-45ea-a91c-1ab32c964041",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "cca43af9-fff7-42c0-8d57-5152cb75eed0": {
+      "ProjectGuid": "cca43af9-fff7-42c0-8d57-5152cb75eed0",
+      "DisplayName": "esercizio3(riprovato)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

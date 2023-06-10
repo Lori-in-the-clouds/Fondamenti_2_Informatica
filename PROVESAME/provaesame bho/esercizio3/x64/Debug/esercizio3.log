@@ -1,0 +1,11 @@
+﻿  elemtype.c
+  list.c
+  main.c
+  minheap.c
+C:\Users\utente\Desktop\ESAME\esercizio3\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\ESAME\esercizio3\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  reverse.c
+C:\Users\utente\Desktop\ESAME\esercizio3\reverse.c(25,7): warning C4013: 'free' non definita. Verrà considerata come esterna che restituisce un int.
+  tree.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\ESAME\esercizio3\tree.c : fatal error C1090: Chiamata API PDB non riuscita. Codice errore '3': C:\Users\utente\Desktop\ESAME\esercizio3\x64\Debug\vc143.pdb

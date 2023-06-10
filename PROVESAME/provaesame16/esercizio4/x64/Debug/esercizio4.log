@@ -1,0 +1,8 @@
+﻿  elemtype.c
+  main.c
+  maxbin.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4\maxbin.c(9,20): warning C4047: '==': 'size_t' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4\maxbin.c(22,16): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  tree.c
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\PROVESAME\provaesame16\esercizio4\x64\Debug\esercizio4.exe

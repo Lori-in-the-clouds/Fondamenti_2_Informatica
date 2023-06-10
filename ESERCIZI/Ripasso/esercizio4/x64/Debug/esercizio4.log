@@ -1,0 +1,6 @@
+﻿  main.c
+  vettore.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\esercizio4\vettore.c(10,21): warning C4098: 'Push': la funzione 'void' restituisce un valore
+C:\Users\utente\Desktop\Fondamenti di informatica 2\esercizio4\vettore.c(5,20): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\esercizio4\x64\Debug\esercizio4.exe

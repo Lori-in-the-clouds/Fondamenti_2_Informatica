@@ -1,0 +1,9 @@
+﻿  delete.c
+  elemtype.c
+  main.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio5\main.c(21,21): warning C4047: 'funzione': 'const ElemType *' differisce da 'const ElemType **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio5\main.c(21,19): warning C4024: 'DeleteBstNode': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio5\main.c(20,1): warning C4047: 'inizializzazione': 'const ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+  tree.c
+  Generazione del codice in corso...
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(8)Alberi\esercizio5\x64\Debug\esercizio5.exe

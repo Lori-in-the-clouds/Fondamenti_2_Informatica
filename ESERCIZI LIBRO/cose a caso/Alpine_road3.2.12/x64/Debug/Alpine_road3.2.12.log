@@ -1,0 +1,7 @@
+﻿  alpine_road.c
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Alpine_road3.2.12\alpine_road.c(47,34): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Alpine_road3.2.12\alpine_road.c(47,28): warning C4024: 'FindPathRec': tipi diversi tra il parametro 5 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Alpine_road3.2.12\alpine_road.c(47,41): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Alpine_road3.2.12\alpine_road.c(47,35): warning C4024: 'FindPathRec': tipi diversi tra il parametro 6 formale e quello effettivo
+C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Alpine_road3.2.12\alpine_road.c(49): warning C4715: 'FindPath': non tutti i percorsi di controllo restituiscono un valore
+  Alpine_road3.2.12.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI LIBRO\Alpine_road3.2.12\x64\Debug\Alpine_road3.2.12.exe

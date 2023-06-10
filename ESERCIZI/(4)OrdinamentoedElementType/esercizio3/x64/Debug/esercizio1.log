@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (esercizio1.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  elemtype.c
+  main.c
+  vettore.c
+  Generazione del codice in corso...
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Fondamenti di informatica 2\ESERCIZI\(4)OrdinamentoedElementType\esercizio3\x64\Debug\esercizio3.exe
